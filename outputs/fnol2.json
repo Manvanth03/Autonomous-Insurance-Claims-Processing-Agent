@@ -1,0 +1,26 @@
+{
+    "extractedFields": {
+        "Policy Number": "",
+        "Policyholder Name": "Alice Johnson",
+        "Effective Dates": "",
+        "Incident Date": "12/05/2025",
+        "Incident Time": "2:00 PM",
+        "Location": "Chennai",
+        "Description": "Vehicle hit a divider due to heavy rain.",
+        "Claimant": "Alice Johnson",
+        "Third Parties": "",
+        "Contact Details": "",
+        "Asset Type": "Car",
+        "Asset ID": "",
+        "Estimated Damage": "20000",
+        "Claim Type": "Vehicle",
+        "Attachments": "Photos",
+        "Initial Estimate": "18000"
+    },
+    "missingFields": [
+        "Policy Number",
+        "Asset ID"
+    ],
+    "recommendedRoute": "Manual Review",
+    "reasoning": "One or more mandatory fields are missing."
+}

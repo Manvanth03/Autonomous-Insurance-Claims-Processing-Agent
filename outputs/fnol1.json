@@ -1,0 +1,23 @@
+{
+    "extractedFields": {
+        "Policy Number": "POL123456",
+        "Policyholder Name": "John Smith",
+        "Effective Dates": "01/01/2025 - 01/01/2026",
+        "Incident Date": "10/06/2025",
+        "Incident Time": "10:30 AM",
+        "Location": "Bangalore",
+        "Description": "Rear-end collision at a traffic signal resulting in front bumper damage.",
+        "Claimant": "John Smith",
+        "Third Parties": "David Johnson",
+        "Contact Details": "9876543210",
+        "Asset Type": "Car",
+        "Asset ID": "KA01AB1234",
+        "Estimated Damage": "18000",
+        "Claim Type": "Vehicle",
+        "Attachments": "Photos, FIR Copy",
+        "Initial Estimate": "17000"
+    },
+    "missingFields": [],
+    "recommendedRoute": "Fast-track",
+    "reasoning": "Estimated damage is below ₹25,000."
+}

@@ -1,0 +1,41 @@
+Policy Number: POL987654
+
+Policyholder Name: Robert Smith
+
+Effective Dates: 01/01/2025 - 01/01/2026
+
+Incident Date: 15/04/2025
+
+Incident Time: 9:00 PM
+
+Location: Hyderabad
+
+Description:
+Possible fraud suspected. Accident appears staged.
+
+Claimant:
+Robert Smith
+
+Third Parties:
+Unknown
+
+Contact Details:
+9876543211
+
+Asset Type:
+Car
+
+Asset ID:
+TS09AA1111
+
+Estimated Damage:
+55000
+
+Claim Type:
+Vehicle
+
+Attachments:
+Photos
+
+Initial Estimate:
+50000

@@ -1,0 +1,28 @@
+Policyholder Name: Alice Johnson
+
+Incident Date: 12/05/2025
+
+Incident Time: 2:00 PM
+
+Location: Chennai
+
+Description:
+Vehicle hit a divider due to heavy rain.
+
+Claimant:
+Alice Johnson
+
+Asset Type:
+Car
+
+Estimated Damage:
+20000
+
+Claim Type:
+Vehicle
+
+Attachments:
+Photos
+
+Initial Estimate:
+18000

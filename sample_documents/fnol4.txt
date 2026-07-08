@@ -1,0 +1,41 @@
+Policy Number: POL555888
+
+Policyholder Name: Rahul Kumar
+
+Effective Dates: 01/01/2025 - 01/01/2026
+
+Incident Date: 18/06/2025
+
+Incident Time: 7:45 PM
+
+Location: Mysore
+
+Description:
+Motorcycle accident caused injuries to the rider.
+
+Claimant:
+Rahul Kumar
+
+Third Parties:
+None
+
+Contact Details:
+9876543299
+
+Asset Type:
+Motorcycle
+
+Asset ID:
+KA09XY9876
+
+Estimated Damage:
+30000
+
+Claim Type:
+Injury
+
+Attachments:
+Medical Report, Photos
+
+Initial Estimate:
+28000
